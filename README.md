@@ -17,9 +17,3 @@
 - Penetration Testing 
 - Vulnerability Assessment
 - Python, C++, Java, HTML
-
-## 🔗 Contact
-Fastest response through Telegram. Open to any business related queries.
-- https://t.me/@imsums
-- https://cracked.io/sums
-- https://sums.sellpass.io/
